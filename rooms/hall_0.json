@@ -1,0 +1,13 @@
+{
+  "music": false,
+  "html": "<h1>Watch outside.</h1><div class=\"media-container\"><img src=\"/rooms/hall_0.png\" /></div><style>body { background: rgb(90, 0, 0); }</style><audio src=\"/rooms/pink_crisis_low.mp3\" autoplay loop></audio><p>Ah! What a beautiful thing, isn't it?<br /><br />The infinite and endless darkness.<br /><br />You don't know how did you ended up in this situation.<br /><br />You don't struggle to remember who you are or where you came from. You just know that your name is {{name}} and one second ago you were walking down the streets of your town and the second one you are trapped inside of a hotel without the possibility of going out.<br /><br />You even question where are you right now. Is this the end of the universe or something like that? Why is it dark?<br /><br />It is definitely some kind of dark paint or something like that, because it seems like there isn't anything between the crystals on the windows and doors are in direct contact with the outside.<br /><br />You feel the strange and irrational sensation that these objects should have broken a long time ago.<br /><br />You don't really want to think much about it...</p>",
+  "options": [
+    ["hall", "Go back."]
+  ],
+  "controls": {
+    "up":    "",
+    "left":  "",
+    "right": "",
+    "down":  ""
+  }
+}

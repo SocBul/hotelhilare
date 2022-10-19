@@ -1,0 +1,13 @@
+{
+  "music": false,
+  "html": "<p>There isn't much to say about the rest of this place. Just a sofa and some peculiar black-covered maganizes.</p>",
+  "options": [
+    ["lobby_0", "Check magazines on the pile."]
+  ],
+  "controls": {
+    "up":    "",
+    "left":  "lobby",
+    "right": "hall",
+    "down":  ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "music": false,
+  "html": "<div class=\"media-container\"><img src=\"/rooms/hall.png\" usemap=\"#int\" /></div><map name=\"int\"><area shape=\"rect\" coords=\"0,0,125,480\" title=\"Go to the lobby\" href=\"#\" onclick=\"room('lobby')\" /><area shape=\"rect\" coords=\"505,0,640,480\" title=\"Go to the rooms\" href=\"#\" onclick=\"room('floor/ground')\" /></map><audio src=\"/rooms/hall_reception-bell-14620.mp3\" autoplay></audio><p>You enter to this hotel.<br /><br />You don't really know why, or neither who you are? It seems like there is no receptionist at all, which is strange, but not as much as the wall full of keys that makes itself noticeable in front of yourself.<br />A wall full of keys with a strange lever.<br /></p>",
+  "options": [
+    ["hall_0", "Watch outside."],
+    ["hall_1", "Inspect your surroundings."]
+  ],
+  "controls": {
+    "up":    "",
+    "left":  "lobby",
+    "right": "floor/ground",
+    "down":  ""
+  }
+}

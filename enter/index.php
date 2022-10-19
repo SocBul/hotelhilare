@@ -1,0 +1,1 @@
+<?php header("location: /hotel/transition?type=enter&to=hall");

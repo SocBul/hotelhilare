@@ -1,0 +1,12 @@
+{
+  "music": false,
+  "html": "<h1>Floor: ground</h1><div class=\"media-container\"><img src=\"/rooms/floor/ground_v3.png\" usemap=\"#int\" /></div><map name=\"int\"><area shape=\"rect\" coords=\"0,0,40,480\" title=\"Go to the hall\" href=\"#\" onclick=\"room('hall')\" /><area shape=\"rect\" coords=\"505,0,640,480\" title=\"Go to the rooms\" href=\"#\" onclick=\"room('floor/ground')\" /></map>",
+  "options": [
+  ],
+  "controls": {
+    "up":    "",
+    "left":  "hall",
+    "right": "",
+    "down":  ""
+  }
+}

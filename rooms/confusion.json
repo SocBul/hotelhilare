@@ -1,0 +1,13 @@
+{
+  "music": false,
+  "html": "<div class=\"media-container\"><iframe src=\"https://yewtu.be/embed/t4D5_uL3vYQ?loop=1&autoplay=1\" frameborder=\"0\" allowfullscreen></iframe></div>",
+  "options": [
+    ["confusion_1", "Cry."]
+  ],
+  "controls": {
+    "up":    "",
+    "left":  "",
+    "right": "",
+    "down":  ""
+  }
+}

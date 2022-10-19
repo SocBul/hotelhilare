@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cookie
+Disallow: /core
+Disallow: /enter
+Disallow: /hotel
+Disallow: /rooms
+Disallow: /transtions
+Disallow: /dev.htm
+Disallow: /offline.php

@@ -1,0 +1,13 @@
+{
+  "music": false,
+  "html": "<h1>Inspect your surroundings.</h1><p>Erm...<br /><br />You seem to be at a hotel's hall.<br /><br/>You see to your left.<br />There is a very nice lobby, with some magazines.<br /><br />You see to your right. There is an escape door.<br /><br />You see behind you.<br />There is a monst~! Nah, I'm joking.<br />What you see is just a door and some windows. It seems to be pure darkness outside.</p>",
+  "options": [
+    ["hall", "Go back."]
+  ],
+  "controls": {
+    "up":    "",
+    "left":  "",
+    "right": "",
+    "down":  ""
+  }
+}
